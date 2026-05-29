@@ -96,13 +96,13 @@ const storyItems = [
     pulse: true,
   },
   {
-    text: "ਅੰਮ੍ਰਿਤਸਰ ਵਾਲੀ first kiss ❤️",
-    subtext: "Magical Moment",
+    text: "ਅੰਮ੍ਰਿਤਸਰ ਦੀਆਂ ਯਾਦਾਂ ਜਿੱਥੇ ਫੁੱਲ enjoy ਕੀਤਾ ❤️",
+    subtext: "Amritsar Memories",
     icon: MapPin,
     color: "from-purple-500 to-rose-500",
     glowColor: "rgba(168, 85, 247, 0.25)",
     pulse: true,
-    image: "/amritsar_first_kiss.png"
+    image: "/amritsar_memories.png"
   },
   {
     text: "1.5 ਸਾਲ wait ਕੀਤਾ ਸਿਰਫ ਤੇਰੇ ਲਈ...",
